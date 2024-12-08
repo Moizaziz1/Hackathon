@@ -10,10 +10,7 @@ const popins4 = Poppins({
   weight: "400",
 });
 
-const popins7 = Poppins({
-  subsets: ["latin"],
-  weight: "700",
-});
+
 
 export default function Footer() {
   return (

@@ -1,10 +1,6 @@
 import Image from "next/image";
 import { Poppins } from "next/font/google";
 
-const popins = Poppins({
-  subsets: ["latin"],
-  weight: "500",
-});
 
 const popins4 = Poppins({
   subsets: ["latin"],
